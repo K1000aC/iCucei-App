@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "CampusCucei",
+    "slug": "CampusCucei",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true,
+      "adaptiveIcon": {
+        "foregroundImage": "assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.k1000a_sc.CampusCucei"
+    },
+    "web": {
+      "favicon": "assets/icon.png"
+    },
+    "plugins": [
+      "expo-video",
+      "expo-font"
+    ]
+  }
+}
