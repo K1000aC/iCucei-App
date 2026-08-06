@@ -3,7 +3,7 @@ import { View, Pressable, Text, StyleSheet } from "react-native";
 import { VideoView, useVideoPlayer } from "expo-video";
 
 function IntroAppInner({ navigation }) {
-  const player = useVideoPlayer(require("./assets/CampusCuceiAppIntro.mp4"), (p) => {
+  const player = useVideoPlayer(require("./assets/iCuceiIntro.mp4"), (p) => {
     p.loop = false; 
     p.muted = true;    
     p.play();           
