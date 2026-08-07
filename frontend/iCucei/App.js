@@ -22,7 +22,7 @@ export default function App() {
     return (
       <View style={styles.splashWrap}>
         <Image
-          source={require('./assets/icon.png')}
+          source={require('./assets/iCuceiLogo.png')}
           style={styles.splashImg}
           resizeMode="contain"
         />
