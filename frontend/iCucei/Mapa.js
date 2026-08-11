@@ -15,10 +15,10 @@ const EDIFICIOS = [
     rect: { top: 490, left: 180, width: 35, height: 85 },
     rotation: -12,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleA/rectoria1.png'),
-      require('./Imagenes/Map&Buildings/ModuleA/rectoria2.png'),
-      require('./Imagenes/Map&Buildings/ModuleA/rectoria3.png'),
-      require('./Imagenes/Map&Buildings/ModuleA/rectoria4.png'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Alfa/Alfa1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Alfa/Alfa2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Alfa/Alfa3.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Alfa/Alfa4.jpeg',
     ],
     pies: [
       'Fachada principal del edificio',
@@ -35,10 +35,10 @@ const EDIFICIOS = [
     rect: { top: 520, left: 220, width: 20, height: 20 },
     rotation: 20,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleB/b1.png'),
-      require('./Imagenes/Map&Buildings/ModuleB/b2.png'),
-      require('./Imagenes/Map&Buildings/ModuleB/b3.png'),
-      require('./Imagenes/Map&Buildings/ModuleB/b4.png'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Beta/Beta1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Beta/Beta2.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Beta/Beta3.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Beta/Beta4.jpeg',
     ],
     pies: [  
       'Segunda Planta del edificio',
@@ -55,10 +55,10 @@ const EDIFICIOS = [
     rect: { top: 498, left: 220, width: 20, height: 20 },
     rotation: 20,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleC/c1.png'),
-      require('./Imagenes/Map&Buildings/ModuleC/c2.png'),
-      require('./Imagenes/Map&Buildings/ModuleC/c3.png'),
-      require('./Imagenes/Map&Buildings/ModuleC/c4.png'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleC/c1.png',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleC/c2.png',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleC/c3.png',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleC/c4.png',
     ],
     pies: [  
       'Vista lateral del Edificio',
@@ -75,10 +75,10 @@ const EDIFICIOS = [
     rect: { top: 472, left: 210, width: 30, height: 20 },
     rotation: 20,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleD/d1.png'),
-      require('./Imagenes/Map&Buildings/ModuleD/d2.png'),
-      require('./Imagenes/Map&Buildings/ModuleD/d3.png'),
-      require('./Imagenes/Map&Buildings/ModuleD/d4.png'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleD/d1.png',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleD/d2.png',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleD/d3.png',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleD/d4.png',
     ],
     pies: [  
       'Segunda y Tercer Planta del edificio',
@@ -95,10 +95,10 @@ const EDIFICIOS = [
     rect: { top: 420, left: 210, width: 30, height: 50 },
     rotation: 15,
     imagenes: [
-      require('./Imagenes/Map&Buildings/CID/CID1.jpg'),
-      require('./Imagenes/Map&Buildings/CID/CID2.jpeg'),
-      require('./Imagenes/Map&Buildings/CID/CID3.jpeg'),
-      require('./Imagenes/Map&Buildings/CID/CID4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/CID/CID1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/CID/CID2.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/CID/CID3.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/CID/CID4.jpg',
     ],
     pies: [
       'Fachada principal del edificio',
@@ -115,10 +115,10 @@ const EDIFICIOS = [
     rect: { top: 345, left: 110, width: 145, height: 20 },
     rotation: 30,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleE/e1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleE/e2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleE/e3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleE/e4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleE/e1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleE/e2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleE/e3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleE/e4.jpg',
     ],
     pies: [ 
       'Fachada principal del edificio',
@@ -135,10 +135,10 @@ const EDIFICIOS = [
     rect: { top: 325, left: 210, width: 20, height: 40 },
     rotation: 0,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleF/f1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleF/f2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleF/f3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleF/f4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleF/f1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleF/f2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleF/f3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleF/f4.jpg',
     ],
     pies: [
       'Ubicación por uno de los pasillos principales del Centro',
@@ -155,10 +155,10 @@ const EDIFICIOS = [
     rect: { top: 275, left: 120, width: 65, height: 25 },
     rotation: -325,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleG/G1.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleG/G2.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleG/G3.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleG/G4.jpeg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleG/G1.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleG/G2.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleG/G3.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleG/G4.jpeg',
     ],
     pies: [ 
       'Fachada principal del edificio',
@@ -175,10 +175,10 @@ const EDIFICIOS = [
     rect: { top: 305, left: 180, width: 40, height: 15, },
     rotation: -325,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleH/H1.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleH/H2.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleH/H3.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleH/H4.jpeg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleH/H1.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleH/H2.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleH/H3.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleH/H4.jpeg',
     ],
     pies: [
       'Fachada principal del Módulo',
@@ -194,10 +194,10 @@ const EDIFICIOS = [
     rect: { top: 335, left: 228, width: 20, height: 10, },
     rotation: -325,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleI/I1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleI/I2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleI/I3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleI/I4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleI/I1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleI/I2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleI/I3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleI/I4.jpg',
     ],
     pies: [ 
       'Vista lateral del dificio',
@@ -214,10 +214,10 @@ const EDIFICIOS = [
     rect: { top: 305, left: 200, width: 40, height: 10, },
     rotation: -325,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleJ/j1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleJ/j2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleJ/j3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleJ/j4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleJ/j1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleJ/j2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleJ/j3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleJ/j4.jpg',
     ],
     pies: [
       'Fachada principal del edificio',
@@ -234,10 +234,10 @@ const EDIFICIOS = [
     rect: { top: 290, left: 200, width: 40, height: 10, },
     rotation: -325,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleK/k1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleK/k2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleK/k3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleK/k4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleK/k1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleK/k2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleK/k3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleK/k4.jpg',
     ],
     pies: [
       'Fachada principal del edificio',
@@ -254,10 +254,10 @@ const EDIFICIOS = [
     rect: { top: 322, left: 245, width: 20, height: 10 },
     rotation: -320,
     imagenes: [
-      require('./Imagenes/Map&Buildings/Alfa/Alfa1.jpg'),
-      require('./Imagenes/Map&Buildings/Alfa/Alfa2.jpg'),
-      require('./Imagenes/Map&Buildings/Alfa/Alfa3.jpeg'),
-      require('./Imagenes/Map&Buildings/Alfa/Alfa4.jpeg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Alfa/Alfa1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Alfa/Alfa2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Alfa/Alfa3.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Alfa/Alfa4.jpeg',
     ],
     pies: [
       'Vista lateral del Edificio',
@@ -274,10 +274,10 @@ const EDIFICIOS = [
     rect: { top: 332, left: 242, width: 20, height: 12 },
     rotation: -320,
     imagenes: [
-      require('./Imagenes/Map&Buildings/Beta/Beta1.jpg'),
-      require('./Imagenes/Map&Buildings/Beta/Beta2.jpeg'),
-      require('./Imagenes/Map&Buildings/Beta/Beta3.jpeg'),
-      require('./Imagenes/Map&Buildings/Beta/Beta4.jpeg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Beta/Beta1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Beta/Beta2.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Beta/Beta3.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Beta/Beta4.jpeg',
     ],
     pies: [ 
       'Vista lateral de Beta',
@@ -294,10 +294,10 @@ const EDIFICIOS = [
     rect: { top: 305, left: 250, width: 26, height: 18},
     rotation: -320,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleL/L1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleL/L2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleL/L3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleL/L4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleL/L1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleL/L2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleL/L3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleL/L4.jpg',
     ],
     pies: [
       'Vista a la División de Ciencias Básicas',
@@ -314,10 +314,10 @@ const EDIFICIOS = [
     rect: { top: 285, left: 234, width: 18, height: 30},
     rotation: -340,
     imagenes: [
-      require('./Imagenes/Map&Buildings/Matute/Mat1.jpg'),
-      require('./Imagenes/Map&Buildings/Matute/Mat2.jpg'),
-      require('./Imagenes/Map&Buildings/Matute/Mat3.jpg'),
-      require('./Imagenes/Map&Buildings/Matute/Mat4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Matute/Mat1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Matute/Mat2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Matute/Mat3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Matute/Mat4.jpg',
     ],
     pies: [ 
       'Fachada principal de la explanada',
@@ -334,16 +334,18 @@ const EDIFICIOS = [
     rect: { top: 270, left: 200, width: 35, height: 15, },
     rotation: -325,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleM/M1.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleM/M2.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleM/M3.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleM/M4.jpeg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleM/M1.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleM/M2.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleM/M3.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleM/M4.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Atm/santander_modulem.jpeg',
     ],
     pies: [ 
       'Vista escaleras del edificio',
       'Área de Laboratorio de Robótica Móvil',
       'Pasillo a Laboratorio de App Móviles',
       'Fachada principal interior del Módulo',
+      'Sucursal de Banco Santander en planta baja',
     ],
   },
   {
@@ -354,10 +356,10 @@ const EDIFICIOS = [
     rect: { top: 255, left: 205, width: 35, height: 15, },
     rotation: -325,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleN/N1.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleN/N2.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleN/N3.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleN/N4.jpeg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleN/N1.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleN/N2.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleN/N3.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleN/N4.jpeg',
     ],
     pies: [
       'Fachada principal del edificio',
@@ -374,10 +376,10 @@ const EDIFICIOS = [
     rect: { top: 235, left: 205, width: 35, height: 15, },
     rotation: -325,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleO/O1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleO/O2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleO/O3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleO/O4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleO/O1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleO/O2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleO/O3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleO/O4.jpg',
     ],
     pies: [
       'Fachada principal del edificio',
@@ -394,10 +396,10 @@ const EDIFICIOS = [
     rect: { top: 270, left: 238, width: 35, height: 12, },
     rotation: -320,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleP/p1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleP/p2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleP/p3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleP/p4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleP/p1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleP/p2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleP/p3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleP/p4.jpg',
     ],
     pies: [  //Cambiar cada pie
       'Fachada principal del edificio',
@@ -414,10 +416,10 @@ const EDIFICIOS = [
     rect: { top: 275, left: 260, width: 35, height: 10, },
     rotation: -320,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleQ/Q1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleQ/Q2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleQ/Q3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleQ/Q4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleQ/Q1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleQ/Q2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleQ/Q3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleQ/Q4.jpg',
     ],
     pies: [  //Cambiar cada pie
       'Fachada principal del edificio',
@@ -434,10 +436,10 @@ const EDIFICIOS = [
     rect: { top: 252, left: 242, width: 25, height: 10, },
     rotation: -320,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleR/R1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleR/R2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleR/R3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleR/R4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleR/R1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleR/R2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleR/R3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleR/R4.jpg',
     ],
     pies: [  //Cambiar cada pie
       'Fachada principal del edificio',
@@ -454,10 +456,10 @@ const EDIFICIOS = [
     rect: { top: 218, left: 210, width: 35, height: 15, },
     rotation: -325,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleS/S1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleS/S2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleS/S3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleS/S4.jpeg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleS/S1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleS/S2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleS/S3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleS/S4.jpeg',
     ],
     pies: [  //Cambiar cada pie
       'Fachada principal del edificio',
@@ -474,10 +476,10 @@ const EDIFICIOS = [
     rect: { top: 198, left: 215, width: 20, height: 15, },
     rotation: -325,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleS2/S2_1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleS2/S2_2.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleS2/S2_3.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleS2/S2_4.jpeg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleS2/S2_1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleS2/S2_2.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleS2/S2_3.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleS2/S2_4.jpeg',
     ],
     pies: [  //Cambiar cada pie
       'Fachada principal del edificio',
@@ -494,10 +496,10 @@ const EDIFICIOS = [
     rect: { top: 240, left: 245, width: 35, height: 12,},
     rotation: -320,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleT/T1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleT/T2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleT/T3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleT/T4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleT/T1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleT/T2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleT/T3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleT/T4.jpg',
     ],
     pies: [  //Cambiar cada pie
       'Fachada principal del edificio',
@@ -514,30 +516,10 @@ const EDIFICIOS = [
     rect: { top: 228, left: 250, width: 35, height: 12,},
     rotation: -320,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleU/U1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleU/U2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleU/U3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleU/U4.jpg'),
-    ],
-    pies: [  //Cambiar cada pie
-      'Fachada principal del edificio',
-      'Vista lateral de la Rectoría',
-      'Área de acceso principal',
-      'Jardines frente a la Rectoría',
-    ],
-  },
-  {
-    id: 'V2',
-    nombre: 'Módulo V2',
-    descripcion:
-    'El módulo V2 alberga aulas de computación, física e informática o espacios técnicos vinculados con ingeniería y ciencias.',
-    rect: { top: 192, left: 217, width: 45, height: 12, },
-    rotation: -318,
-    imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleV2/V2_1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleV2/V2_2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleV2/V2_3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleV2/V2_4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleU/U1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleU/U2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleU/U3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleU/U4.jpg',
     ],
     pies: [  //Cambiar cada pie
       'Fachada principal del edificio',
@@ -554,10 +536,10 @@ const EDIFICIOS = [
     rect: { top: 178, left: 225, width: 45, height: 12, },
     rotation: -315,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleV/V1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleV/V2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleV/V3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleV/V4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleV/V1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleV/V2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleV/V3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleV/V4.jpg',
     ],
     pies: [  //Cambiar cada pie
       'Fachada principal del edificio',
@@ -567,19 +549,19 @@ const EDIFICIOS = [
     ],
   },
   {
-    id: 'X',
-    nombre: 'Módulo X',
+    id: 'V2',
+    nombre: 'Módulo V2',
     descripcion:
-      'Módulo de aulas para clases y talleres menores, conectado con Z y W para circulación interna. También puedes encontarr en este edificio el "Hospital de Computadoras"',
-    rect: { top: 142, left: 185, width: 45, height: 14, },
-    rotation: -315,
+    'El módulo V2 alberga aulas de computación, física e informática o espacios técnicos vinculados con ingeniería y ciencias.',
+    rect: { top: 192, left: 217, width: 45, height: 12, },
+    rotation: -318,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleX/X1.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleX/X2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleX/X3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleX/X4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleV2/V2_1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleV2/V2_2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleV2/V2_3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleV2/V2_4.jpg',
     ],
-    pies: [  //cambiar pie
+    pies: [  //Cambiar cada pie
       'Fachada principal del edificio',
       'Vista lateral de la Rectoría',
       'Área de acceso principal',
@@ -594,16 +576,36 @@ const EDIFICIOS = [
     rect: { top: 160, left: 180, width: 45, height: 14, },
     rotation: -315,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleW/W1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleW/W2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleW/W3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleW/W4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleW/W1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleW/W2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleW/W3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleW/W4.jpg',
     ],
     pies: [  
       'Vista a cúbiculo w2',
       'Fachada del edificio hacia Módulo X',
       'Vista en conjunto con Módulo X',
       'Vista frente a Jardines',
+    ],
+  },
+  {
+    id: 'X',
+    nombre: 'Módulo X',
+    descripcion:
+      'Módulo de aulas para clases y talleres menores, conectado con Z y W para circulación interna. También puedes encontarr en este edificio el "Hospital de Computadoras"',
+    rect: { top: 142, left: 185, width: 45, height: 14, },
+    rotation: -315,
+    imagenes: [
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleX/X1.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleX/X2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleX/X3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleX/X4.jpg',
+    ],
+    pies: [  //cambiar pie
+      'Fachada principal del edificio',
+      'Vista lateral de la Rectoría',
+      'Área de acceso principal',
+      'Jardines frente a la Rectoría',
     ],
   },
   {
@@ -614,10 +616,10 @@ const EDIFICIOS = [
     rect: { top: 180, left: 168, width: 25, height: 25, },
     rotation: -325,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleY/Y1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleY/Y2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleY/Y3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleY/Y4.jpeg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleY/Y1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleY/Y2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleY/Y3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleY/Y4.jpeg',
     ],
     pies: [  
       'Fachada principal del edificio',
@@ -634,10 +636,10 @@ const EDIFICIOS = [
     rect: { top: 170, left: 158, width: 15, height: 20, },
     rotation: -345,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleZ/Z1.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleZ/Z2.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleZ/Z3.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleZ/Z4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleZ/Z1.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleZ/Z2.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleZ/Z3.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleZ/Z4.jpg',
     ],
     pies: [ 
       'Fachada principal del edificio',
@@ -654,10 +656,10 @@ const EDIFICIOS = [
     rect: { top: 160, left: 145, width: 15, height: 20, },
     rotation: -345,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleZ1/Z1_1.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleZ1/Z1_2.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleZ1/Z1_3.jpeg'),
-      require('./Imagenes/Map&Buildings/ModuleZ1/Z1_4.jpeg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleZ1/Z1_1.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleZ1/Z1_2.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleZ1/Z1_3.jpeg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleZ1/Z1_4.jpeg',
     ],
     pies: [ 
       'Fachada principal del edificio',
@@ -674,10 +676,10 @@ const EDIFICIOS = [
     rect: { top: 160, left: 165, width: 25, height: 15, },
     rotation: -315,
     imagenes: [
-      require('./Imagenes/Map&Buildings/ModuleZ2/Z2_1.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleZ2/Z2_2.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleZ2/Z2_3.jpg'),
-      require('./Imagenes/Map&Buildings/ModuleZ2/Z2_4.jpg'),
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleZ2/Z2_1.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleZ2/Z2_2.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleZ2/Z2_3.jpg',
+      'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/ModuleZ2/Z2_4.jpg',
     ],
     pies: [
       'Fachada principal del edificio',
@@ -710,7 +712,7 @@ export default class Mapa extends Component {
 
     return (
       <ImageBackground
-        source={require('./Imagenes/Backgrounds/MapBackground.png')}
+        source={{ uri: 'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/background/MapBackground.png' }}
         style={styles.backgroundImage}
       >
         <View style={styles.overlay} />
@@ -723,8 +725,8 @@ export default class Mapa extends Component {
           {/* === CONTENEDOR DEL MAPA === */}
           <View style={styles.mapFrame}>
             <Image
-              source={require('./Imagenes/Map&Buildings/map_2024.jpg')}
-              style={styles.mapImage}
+              source={{ uri:'https://cqtjnhlxxyqbuuknzqfo.supabase.co/storage/v1/object/public/Images/buildings_cucei/Map/map_2024.jpg'}}
+              style={styles.mapImage}     
             />
 
             {/* === HOTSPOTS DE EDIFICIOS === */}
@@ -767,7 +769,7 @@ export default class Mapa extends Component {
                     <PagerView style={styles.pager} initialPage={0}>
                       {edificioSeleccionado.imagenes.map((img, idx) => (
                         <View style={styles.page} key={idx}>
-                          <Image source={img} style={styles.pageImg} resizeMode="cover" />
+                          <Image source={{ uri: img }} style={styles.pageImg} resizeMode="cover" />              
                           <Text style={styles.imageCaption}>
                             {edificioSeleccionado.pies?.[idx] || `Foto ${idx + 1}`}
                           </Text>
