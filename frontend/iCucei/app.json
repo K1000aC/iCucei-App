@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "CampusCucei",
-    "slug": "CampusCucei",
+    "name": "iCucei",
+    "slug": "iCucei",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "assets/icon.png",
+    "icon": "assets/iCuceiLogo.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "assets/icon.png",
+      "image": "assets/iCuceiLogo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,13 +17,13 @@
     "android": {
       "edgeToEdgeEnabled": true,
       "adaptiveIcon": {
-        "foregroundImage": "assets/icon.png",
+        "foregroundImage": "assets/iCuceiLogo.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.k1000a_sc.CampusCucei"
+      "package": "com.k1000a_sc.iCucei"
     },
     "web": {
-      "favicon": "assets/icon.png"
+      "favicon": "assets/iCuceiLogo.png"
     },
     "plugins": [
       "expo-video",
